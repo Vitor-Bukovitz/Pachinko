@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D4B2AD625EF210B00D4B252 /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 8D4B2AD525EF210B00D4B252 /* FireParticles.sks */; };
 		8D793F3825EDCCB00042065D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D793F3725EDCCB00042065D /* AppDelegate.swift */; };
 		8D793F3A25EDCCB00042065D /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 8D793F3925EDCCB00042065D /* GameScene.sks */; };
 		8D793F3E25EDCCB00042065D /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D793F3D25EDCCB00042065D /* GameScene.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D4B2AD525EF210B00D4B252 /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
 		8D793F3425EDCCB00042065D /* Pachinko.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pachinko.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D793F3725EDCCB00042065D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8D793F3925EDCCB00042065D /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				8D793F4125EDCCB00042065D /* Main.storyboard */,
 				8D793F4425EDCCB30042065D /* Assets.xcassets */,
 				8D793F4625EDCCB30042065D /* Info.plist */,
+				8D4B2AD525EF210B00D4B252 /* FireParticles.sks */,
 			);
 			path = Pachinko;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D793F4325EDCCB00042065D /* Main.storyboard in Resources */,
+				8D4B2AD625EF210B00D4B252 /* FireParticles.sks in Resources */,
 				8D793F3A25EDCCB00042065D /* GameScene.sks in Resources */,
 				8D793F4525EDCCB30042065D /* Assets.xcassets in Resources */,
 			);
